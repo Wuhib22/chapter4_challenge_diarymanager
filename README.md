@@ -1,5 +1,5 @@
  Diary Manager (Command-Line)
-Hey! This is a simple Java command-line diary app I made while working through Chapter 4 on file I/O.
+This is a simple Java command-line diary app I made while working through Chapter 4 on file I/O.
 What it can do
 
 Write new entries (type whatever you want, finish with a line that just says END)
